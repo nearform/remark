@@ -1,12 +1,12 @@
 {
-  "name": "remark",
+  "name": "@nearform/remark",
   "version": "0.14.1",
   "dependencies": {
     "marked": "0.3.9"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gnab/remark.git"
+    "url": "https://github.com/nearform/remark.git"
   },
   "license": "MIT",
   "devDependencies": {
